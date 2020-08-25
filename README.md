@@ -1,3 +1,3 @@
 # burger_api
 
-Burger API for the api project
+Burger API for the React Burger project
